@@ -5,7 +5,17 @@ body {
     display: grid;
     gap: 60px;
     justify-items: center;
-    margin-top: 60px;
+}
+
+.logo {
+    height: 190px;
+    position: relative;
+    right: 360px;
+}
+
+.div-logo {
+    border: 2px solid grey;
+    background: #000000;
 }
 
 img {
@@ -73,4 +83,19 @@ p {
     padding: 15px 30px;
     border-radius: 4px;
     text-transform: uppercase;
+}
+
+.subtitulo {
+    font-size: 64px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.2);
+    text-align: right;
+    padding: 40px;
+    align-self: center;
+}
+
+.brincadeiras-item {
+    background: #fff;
+    padding: 40px;
+
 }
