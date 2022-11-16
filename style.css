@@ -8,7 +8,7 @@ body {
 }
 
 .div-logo {
-  background: black;
+  background: #5271FF;
   width: 100%;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 .menu a {
-  background: #ffffff;
+  background: #FFDE59;
   padding: 15px 30px;
   border-radius: 4px;
   color: #000000;
@@ -57,7 +57,7 @@ p {
 }
 
 .introducao {
-  background: #fff;
+  background: #51B59F;
   padding: 40px;
   text-align: right;
   position: relative;
@@ -70,14 +70,14 @@ p {
 .detalhe {
   width: 60px;
   height: 4px;
-  background: purple;
+  background: #F06525;
   position: absolute;
   top: 30px;
   right: -30px;
 }
 
 .botao {
-  background: purple;
+  background: #F06525;
   color: black;
   padding: 15px 30px;
   border-radius: 4px;
@@ -87,14 +87,14 @@ p {
 .subtitulo {
   font-size: 64px;
   text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.2);
+  color: #FFDE59;
   text-align: right;
   padding: 40px;
   align-self: center;
 }
 
 .brincadeiras {
-  background: #fff;
+  background: #51B59F;
   padding: 40px;
 }
 
